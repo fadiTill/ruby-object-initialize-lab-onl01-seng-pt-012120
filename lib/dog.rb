@@ -10,5 +10,6 @@ def name_breed (name, breed = "Mutt")
 end
 def name_breed (name, breed = "Mutt")
 @name
-@breed 
+@breed
 end
+end 
